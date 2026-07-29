@@ -18,13 +18,13 @@ This project follows the data analytics workflow with the aim of producing an in
 - Pandas
 - NumPy
 - Matplotlib
-- Google Collab
+- Google Colab
 - Microsoft Power BI
 
 ## Project Structure
 
 - `data/` – Dataset used for the analysis
-- `notebooks/` – Python analysis notebook (Google Collab)
+- `notebooks/` – Python analysis notebook (Google Colab)
 - `data/' - cleaned dataset used for visuals
 - `README.md` – Project documentation
 
@@ -45,7 +45,7 @@ Average low and high increase over time, with the year 2026 being the highest fo
 ## How to Run the Project
 
 1. Download or clone the repository.
-2. Open the Jupyter Notebook or Google Collab file.
+2. Open the Jupyter Notebook or Google Colab file.
 3. Upload data file
 4. Install the required Python libraries.
 5. Delete # on line "#files.download("cleaned_data.csv")" on the cell just before the dashboard picture
